@@ -11,11 +11,11 @@ I am Kirby Collins Mendoza, with a flair for coding and database management skil
 
 ## Certification
 
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/533f7b0438d54eb38f8bb58fc763d570)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC9CD115725C77957A833A74DBA71C4D644B7C43E7E5CAA95BF0B1EA00BCF6C4)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D3DBD0D0B5292B5B7BA794518B051A0A52BDB3FB563A1620A372EBD617139923)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B2412F38015901C7B8832BE1452743863A31C10FE12424855407C012FBD46DFA)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0fb9d2965018454e9e7fa73b841d4844?fbclid=IwAR3G0G-ECeomw9cvvjzFQgJ1S7KzdVC-_xLUfuDGD2_ThMvCRa6FcRX4MWg)
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/533f7b0438d54eb38f8bb58fc763d570)
 
 ## Skill sets
 
